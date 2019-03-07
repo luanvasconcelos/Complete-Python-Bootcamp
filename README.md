@@ -7,3 +7,4 @@ NOTE: There are more 'homework' from the course than what's displayed in here in
 2. The __Statements Assessment Test__ requested to fill a series of tasks using control flow structures like 'for' and 'if' and build-in functions such as 'range' and 'split';
 3. The __Guessing Game Challenge__ ordered the creation of a little guess game with the user by using conflow flow architectures and printing statements so one could guess a random number from 1 to 100 with hints like warmer or colder;
 4. The __Function Practice Exercises__ demanded solving little problems involving the creation of functions to solve them;
+5. The __Functions and Methods Homework__ needed to complete a series of problems encompassing functions and methods to solve them;
