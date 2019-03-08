@@ -10,3 +10,4 @@ NOTE: There are more 'homework' from the course than what's displayed in here in
 5. The __Functions and Methods Homework__ needed to complete a series of problems encompassing functions and methods to solve them;
 6. The __Milestone Project 1__ asked to create a Tic Tac Toe game with the end user and display the 'board' along the players answers;
 7. The __Object Oriented Programming Homework__ required the completion of classes attributes and methods to calculate tasks for objects responses;
+8. The __OOP Challenge__ asked to create a bank related class and fill methods and attributes to compute a client's name and balance account as it makes deposits and withdraws; 
