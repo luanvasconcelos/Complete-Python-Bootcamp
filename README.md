@@ -13,3 +13,4 @@ NOTE: There are more 'homework' from the course than what's displayed in here in
 8. The __OOP Challenge__ asked to create a bank related class and fill methods and attributes to compute a client's name and balance account as it makes deposits and withdraws; 
 9. The __Errors and Exceptions Homework__ demanded the use of 'try', 'except' and 'else' statements to to handle errors and exceptions;
 10. The __Milestone Project 2__ asked for the creation of a simplified version of Blackjack card game by using OOP to work around objects, attributes, classes and a few functions to make the game with the end user. This assessment was much bigger than the other ones as it involved much more complex actions than the Milestone Project 1;
+11. __The Built-in Functions Assessment Test__ nedded the use of python build-in fuctions such as map, reduce, filter, zip and enumerate to complete tasks;
